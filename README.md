@@ -3,7 +3,7 @@
 
 # Hi there, I'm Muhammad Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
 
-**GenAI & Full-Stack Developer | CS Student @ UET Lahore**
+**GenAI & Full-Stack Developer | Software Engineer**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D4AA&center=true&vCenter=true&width=700&lines=Building+AI-powered+Full-Stack+Applications;Reverse+Engineering+%26+Malware+Analysis;Helping+Students+Debug+and+Grow;Always+Learning%2C+Always+Building" alt="typing animation">
 
@@ -132,18 +132,9 @@ Production-ready middleware for embedding LLMs into existing ASP.NET application
 <a href="https://github.com/recursive-chauhan">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=recursive-chauhan&theme=dark&hide_border=true&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4AA&sideLabels=ffffff&dates=8b949e&background=0d1117&cache_seconds=86400" height="170" alt="streak stats">
 </a>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=recursive-chauhan&theme=github-dark&hide_border=true&bg_color=0d1117&color=00D4AA&line=00D4AA&point=FF6B6B&area=true&area_color=00D4AA&cache_seconds=86400" width="100%" alt="activity graph">
-
 </div>
 
 <br><br>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=recursive-chauhan&color=00D4AA&style=flat-square" alt="profile views">
-</div>
-
 ---
 
 <div align="center">
